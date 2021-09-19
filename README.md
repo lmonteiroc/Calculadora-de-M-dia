@@ -1,0 +1,2 @@
+# Calculadora-de-M-dia
+Calculadora de Média, foi o resultado da primeira atividade realizada na Imerssãodev, evento realizado pela edutec Alurea, sob orientação dos instrutores do evento no quino dia de estudo foi possível retornar a primeira atividade e realizar diversas implementações, a ideia inicial realizava apenas o cálculo no console, foram realizadas mudanças no background, foram adicionados os imputs e o botão que calcula uma média simples e imprime resultado com uma mensagem de aprovado ou reprovado na forma de alert.
